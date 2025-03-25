@@ -1,0 +1,65 @@
+﻿  
+        @{
+            ViewData["Title"] = "Bienvenido a la Tienda de Abarrotes";
+        } <html lang="es"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width, initial-scale=1.0" /> <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" /> <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" /> <style> .hero
+
+        {
+            background-image: url('https://media.istockphoto.com/id/1438530555/es/foto/charcuter%C3%ADa-vac%C3%ADa-conceptos-de-peque%C3%B1as-empresas.jpg?s=612x612&w=0&k=20&c=k1VJoRcsvoPb3g5rAVoA61peaG1DL_BbxLsFu221T4o=');
+            background-size: cover;
+            background-position: center;
+            height: 100vh;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            position: relative;
+        }
+
+        .hero::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(0, 0, 0, 0.7); 
+
+        .hero-content {
+            position: relative;
+            z-index: 1;
+        }
+
+            .hero-content h1 {
+                font-size: 3rem; 
+                text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); 
+            }
+
+            .hero-content p {
+                font-size: 1.5rem; 
+                text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7); 
+            }
+
+        .btn-custom {
+            background-color: #ffcc00; 
+            color: #333;
+        }
+
+            .btn-custom:hover {
+                background-color: #e16800; 
+            }
+    </style>
+</head>
+<body>
+    <div class="hero">
+        <div class="hero-content">
+            <h1 class="display-4">Bienvenido a Nuestra Tienda de Abarrotes</h1>
+            <p class="lead">Aquí encontrarás los mejores productos para tu hogar. Desde alimentos frescos hasta productos de limpieza, tenemos todo lo que necesitas.</p>
+            <p class="lead">Para acceder a todos nuestros servicios, por favor inicia sesión.</p>
+             </div>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

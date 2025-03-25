@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HpOne\\source\\Semana5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\views\\facturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:views\\facturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\controllers\\proveedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:controllers\\proveedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\wwwroot\\js\\factura.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:wwwroot\\js\\factura.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\views\\detallefacturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:views\\detallefacturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\views\\facturas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:views\\facturas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\views\\proveedors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:views\\proveedors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\views\\proveedors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:views\\proveedors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\views\\detallefacturas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:views\\detallefacturas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\controllers\\detallefacturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:controllers\\detallefacturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\views\\productoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:views\\productoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\wwwroot\\js\\crud.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:wwwroot\\js\\crud.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\semana5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:semana5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|c:\\users\\hpone\\source\\semana5\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F83EBF55-2098-4EA9-BA1C-C906853F77AE}|Semana5.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T00:43:08.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\Views\\Proveedors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proveedors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\Views\\Proveedors\\Index.cshtml",
+              "RelativeToolTip": "Views\\Proveedors\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T23:35:31.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\Models\\Proveedor.cs",
+              "RelativeDocumentMoniker": "Models\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\Models\\Proveedor.cs",
+              "RelativeToolTip": "Models\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:27:22.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProveedorsController.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\Controllers\\ProveedorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProveedorsController.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\Controllers\\ProveedorsController.cs",
+              "RelativeToolTip": "Controllers\\ProveedorsController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAewH8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:31:48.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\Views\\Facturas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Facturas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\Views\\Facturas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Facturas\\Index.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAQwGMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T22:12:24.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturasController.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\Controllers\\FacturasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FacturasController.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\Controllers\\FacturasController.cs*",
+              "RelativeToolTip": "Controllers\\FacturasController.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:44:55.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\Views\\Facturas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Facturas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\Views\\Facturas\\Create.cshtml",
+              "RelativeToolTip": "Views\\Facturas\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T23:37:33.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwBEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:59:57.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\Views\\Proveedors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proveedors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\Views\\Proveedors\\Create.cshtml",
+              "RelativeToolTip": "Views\\Proveedors\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T23:36:11.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T00:01:28.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T00:01:32.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T20:16:19.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:09:55.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\Views\\DetalleFacturas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\DetalleFacturas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\Views\\DetalleFacturas\\Index.cshtml",
+              "RelativeToolTip": "Views\\DetalleFacturas\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T23:41:42.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "factura.js",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\wwwroot\\js\\factura.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\factura.js",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\wwwroot\\js\\factura.js",
+              "RelativeToolTip": "wwwroot\\js\\factura.js",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAowJkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-20T22:30:32.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DetalleFacturasController.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\Controllers\\DetalleFacturasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DetalleFacturasController.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\Controllers\\DetalleFacturasController.cs",
+              "RelativeToolTip": "Controllers\\DetalleFacturasController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAYwFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:15:07.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\Views\\Productoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\Views\\Productoes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Productoes\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T23:13:15.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductoesController.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\Controllers\\ProductoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductoesController.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\Controllers\\ProductoesController.cs",
+              "RelativeToolTip": "Controllers\\ProductoesController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAUwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:11:05.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\Models\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "Models\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\Models\\DetalleFactura.cs",
+              "RelativeToolTip": "Models\\DetalleFactura.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:10:49.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\Views\\DetalleFacturas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\DetalleFacturas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\Views\\DetalleFacturas\\Create.cshtml",
+              "RelativeToolTip": "Views\\DetalleFacturas\\Create.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T22:19:24.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-24T22:09:56.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T21:27:12.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T20:59:40.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-20T22:11:01.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-20T20:58:38.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Crud.js",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\wwwroot\\js\\Crud.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\Crud.js",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\wwwroot\\js\\Crud.js",
+              "RelativeToolTip": "wwwroot\\js\\Crud.js",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-20T20:34:53.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T21:53:49.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Semana5.csproj",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana5\\Semana5.csproj",
+              "RelativeDocumentMoniker": "Semana5.csproj",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana5\\Semana5.csproj",
+              "RelativeToolTip": "Semana5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T21:59:46.742Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

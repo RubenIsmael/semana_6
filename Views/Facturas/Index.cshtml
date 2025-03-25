@@ -1,0 +1,106 @@
+﻿@model IEnumerable<Semana5.Models.Factura>
+
+@{
+    ViewData["Title"] = "Facturas";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Facturas</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Crear Nueva Factura</a>
+</p>
+
+
+<div class="invoice-header">
+    <h2>Comercio don Pepe</h2>
+    <p>RUC: 1234567890</p>
+    <p>Dirección: Calle las ketis</p>
+    <p>Teléfono:555555555</p>
+    <p>Email: tupepito@gmail.com</p>
+    <p>Número de Factura: <span id="invoiceNumber">001</span></p>
+    <p>Fecha de Emisión: <span id="issueDate">@DateTime.Now.ToString("dd/MM/yyyy")</span></p>
+    <p>Tipo de Comprobante: Factura Electrónica</p>
+</div>
+
+<div class="customer-data">
+    <h3>Datos del Cliente</h3>
+    <select id="customerSelect" class="form-control">
+        <option value="">Seleccionar Cliente</option>
+     
+    </select>
+    <div id="customerDetails" style="display:none;">
+        <p>Cédula/RUC: <span id="customerId"></span></p>
+        <p>Nombre: <span id="customerName"></span></p>
+        <p>Dirección: <span id="customerAddress"></span></p>
+        <p>Teléfono: <span id="customerPhone"></span></p>
+        <p>Email: <span id="customerEmail"></span></p>
+    </div>
+    <button id="registerNewCustomer" class="btn btn-secondary">Registrar Nuevo Cliente</button>
+</div>
+
+
+<div class="product-selection">
+    <h3>Seleccionar Productos</h3>
+    <select id="productSelect" class="form-control">
+        <option value="">Seleccionar Producto</option>
+ 
+    </select>
+    <div id="productDetails" style="display:none;">
+        <p>Nombre: <span id="productName"></span></p>
+        <p>Precio Unitario: <span id="productPrice"></span></p>
+        <p>IVA: <span id="productIVA"></span></p>
+        <p>Stock Disponible: <span id="productStock"></span></p>
+        <input type="number" id="productQuantity" class="form-control" placeholder="Cantidad" min="1" />
+        <button id="addProduct" class="btn btn-success">Agregar Producto</button>
+    </div>
+</div>
+
+
+<table class="table" id="invoiceTable">
+    <thead>
+        <tr>
+            <th>Código</th>
+            <th>Producto</th>
+            <th>Cantidad</th>
+            <th>Precio Unitario</th>
+            <th>Subtotal</th>
+            <th>IVA</th>
+            <th>Total</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+
+    </tbody>
+</table>
+
+
+<div class="invoice-summary">
+    <h3>Resumen de la Factura</h3>
+    <p>Subtotal: <span id="subtotal">0.00</span></p>
+    <p>IVA: <span id="iva">0.00</span></p>
+    <p>Total a Pagar: <span id="total">0.00</span></p>
+</div>
+
+<!-- Métodos de Pago -->
+<div class="payment-methods">
+    <h3>Métodos de Pago</h3>
+    <select id="paymentMethod" class="form-control">
+        <option value="efectivo">Efectivo</option>
+        <option value="tarjeta">Tarjeta de Crédito/Débito</option>
+        <option value="transferencia">Transferencia Bancaria</option>
+        <option value="pago_diferido">Pago Diferido</option>
+    </select>
+    <input type="number" id="amountReceived" class="form-control" placeholder="Monto Recibido" />
+    <p id="change" style="display:none;">Cambio: <span id="changeAmount">0.00</span></p>
+</div>
+
+
+<div class="final-buttons">
+    <button id="generateInvoice" class="btn btn-success">Generar Factura</button>
+    <button id="cancelInvoice" class="btn btn-danger">Cancelar</button>
+    <button id="printInvoice" class="btn btn-info">Imprimir</button>
+</div>
+
+<script src="~/js/factura.js"></script>
